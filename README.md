@@ -1,4 +1,4 @@
 # KingOfJDA
 A bukkit similar Event Handling for JDA
 
-see Test for example.
+see src/Test for example.
